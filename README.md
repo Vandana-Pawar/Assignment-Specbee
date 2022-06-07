@@ -29,4 +29,4 @@ Once done, please share the Github URL of the module.  If you don't have a Githu
 **Solution**:
 Please find the attached implemented code.
 for (block will be placed on all the pages) this statement you need to follow below steps.
-Login Drupal CMS-> Administration-> Structure-> Block layout-> place Block
+**Login Drupal CMS-> Administration-> Structure-> Block layout-> place Block**
