@@ -1,0 +1,6 @@
+name: 'Admin Config Form'
+description: 'Display Site location and the current time for the location'
+type: module
+package: Custom
+core: '8.x'
+

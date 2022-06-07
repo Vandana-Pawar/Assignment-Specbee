@@ -1,0 +1,9 @@
+admin_config.admin_settings_form:  
+  path: '/admin/config/admin_config/adminsettings'  
+  defaults:  
+    _form: '\Drupal\admin_config_form\Form\AdminConfigForm'  
+    _title: 'Admin Config Form'  
+  requirements:  
+    _permission: 'access administration pages'  
+  options:  
+    _admin_route: TRUE 

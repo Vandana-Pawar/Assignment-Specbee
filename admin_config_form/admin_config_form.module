@@ -1,0 +1,20 @@
+<?php
+/**
+ * Created by PhpStorm.
+ */
+use Drupal\Core\Form\FormStateInterface;
+
+function admin_config_form_theme() {
+  return [
+  	'admin_config' => [
+      'variables' => ['timeZone' => NULL,'timeZoneTime' => NULL],
+      'template' => 'admin-config'
+  	],
+	
+  ];
+}
+
+
+
+
+
